@@ -1,7 +1,7 @@
 Hi ${FNAME}, <br/>
 <br/>
 
-Welcome to Ashok IT family, your registration is almost completed. <br/>
+Welcome to our journey , your registration is almost completed. <br/>
 <br/>
 
 Please unlock your account using below details. <br/>
@@ -17,4 +17,4 @@ Temporary Pwd : ${TEMP_PWD} <br/>
 <br/>
 
 Thanks,<br/>
-Ashok IT.<br/>
+Pandey Coder.<br/>
